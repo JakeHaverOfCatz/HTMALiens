@@ -1,1 +1,38 @@
 /* This is my CSS file */
+.jacquard-24-regular {
+  font-family: "Jacquard 24", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* .mainHeading {
+    color: rgb(255, 0, 238);
+    font-size: 50px;
+} */
+
+
+/* h1.mainHeading {
+    color: blue;
+    font-family: "Jacquard 24"
+} */
+
+.jacquard-24-regular {
+  font-family: "Jacquard 24", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#primaryTitleHomepage {
+    font-size: 100px !important;
+}
+
+img {
+    height: 200px;
+}
+/* specificity! 
+h1 type selector specificity of 1
+.mainheading class selector specificity of 10
+id selector specificity of 100 
+!important specifity of 1,000
+*/
+
